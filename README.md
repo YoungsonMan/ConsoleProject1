@@ -42,11 +42,9 @@ Lost Ark Legion Raid  Kakul Saydon Gate 2 Maze Mimic v1.0.0.0
 
 플레이어는 미로에서 방해꾼을 피해 같은 문양 3개를 먹고 최종 탈출을 해야하는 게임.
 
-![ss01.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3419e465-3ff2-4d8d-b145-444e943b434e/7e4bc144-bb70-4b32-aab3-1d3217b1b2b1/8804d06f-d3c0-4733-9de5-3ec23cec8f6b.png)
+![ss01](https://github.com/user-attachments/assets/7672f881-5883-42a4-9610-315fa936394e) ![ss02](https://github.com/user-attachments/assets/acbcf6b6-ef1a-4c8f-ba26-8845c74e4d79)
 
-![ss02.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3419e465-3ff2-4d8d-b145-444e943b434e/5cbd4e28-9f9a-4a02-80da-1ecfffb5b107/ss02.png)
-
-https://youtu.be/slN88ptQChg?si=W2IP00Zfhm6ZHgyl&t=9
+[https://youtu.be/slN88ptQChg?si=W2IP00Zfhm6ZHgyl&t=9](url)
 
 위와 같은 미니 게임을 구현.
 
